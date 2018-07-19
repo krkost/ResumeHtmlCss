@@ -1,0 +1,72 @@
+body {
+            background: #06517c;
+            color: #000000;
+            font-family: Trebuchet MS, Arial, Times New Roman;
+            font-size: 12px;
+}
+
+p {
+            font: helvetica;
+            letter-spacing: 0.5px;
+}
+
+#container {
+            background: #06517c;
+}
+ 
+ 
+#left-part {
+            background: #fcfcff;
+            float: left;
+            width: 850px;
+            height: 800px;
+}
+ 
+#right-part {
+            background: #ccccd1;
+            float: right;
+            width: 664px;
+            height:800px;
+}
+ 
+#clear {
+            clear:both;
+}
+
+.name {
+            color: #06517c;
+            font-size: 24px;
+            font-weight: bold;
+}
+
+.marg {
+            margin-left: 70px;
+}
+
+.italic {
+            font-size: 20px;
+            font-style: italic;
+}
+
+.text {
+             font-size: 14px;
+             margin-right: 200px;
+}
+
+.my-title {
+             color: #06517c;
+             font-size: 16px;
+             font-weight: bold;
+}
+
+.round {
+    border-radius: 150px; /* Радиус скругления */
+    border: 1px green; /* Параметры рамки */
+    box-shadow: 0 0 7px #666; /* Параметры тени */
+}
+
+.center {
+      text-align: center;
+}
+
+ 
